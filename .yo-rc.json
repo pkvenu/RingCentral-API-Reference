@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "rc-platform_basic.yml",
+    "name": "RingCentral Platform",
+    "repo": "pkvenu/ringcentral-api-reference",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": false
+  }
+}
